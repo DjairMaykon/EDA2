@@ -1,6 +1,6 @@
-# Estruturas de Dados e Algoritmos II (EDA2) 📚
+# Estruturas de Dados e Algoritmos 📚
 
-Este repositório contém implementações relacionadas à disciplina de **Estruturas de Dados e Algoritmos II (EDA2)** que cursei na UFBA.
+Este repositório contém implementações de **Estruturas de Dados e Algoritmos** para consolidar meus conhecimentos adquiridos na UFBA (Universidade Federal da Bahia).
 
 ## 📋 Conteúdo
 
